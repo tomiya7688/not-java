@@ -48,7 +48,7 @@ print(a)
 ```text
 そんな文知らないんだけど？？？
 Where is sub.a？？？？
-I can\'t receive it???
+I can't receive it???
 ```
 
 ## 仕様書
